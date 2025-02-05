@@ -1,4 +1,4 @@
-# Agile Project Manager Portfolio
+# Agile Project Manager/Scrum Master Portfolio
 
 ## About Me
 A seasoned Project Manager and Scrum Master with over 16 years of IT experience, including 5+ years in managing full project delivery. Skilled in driving cross-functional collaboration for full-stack development and data analytics projects using Scrum and hybrid methodologies, with expertise in Java, Spring Boot, data modeling, and tools like Power BI. Proficient in managing multi-million-dollar projects, creating SOWs, handling invoicing, and actively enhancing skills in AI to deliver innovative, data-driven solutions.
